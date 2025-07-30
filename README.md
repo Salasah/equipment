@@ -4,4 +4,4 @@ Equipment
 
 #### License
 
-MIT
+MIT# equipment
