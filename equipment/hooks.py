@@ -199,3 +199,11 @@ app_license = "MIT"
 # auth_hooks = [
 #	"equipment.auth.validate"
 # ]
+
+
+fixtures = [
+    {"dt": "Custom Field", "filters": {"module": "Equipment"}},
+    # {"dt": "Print Format", "filters": {"module": "Equipment"}},
+    {"dt": "Property Setter", "filters": {"module": "Equipment"}},
+
+]
